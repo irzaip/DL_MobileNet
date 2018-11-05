@@ -1,0 +1,9 @@
+
+.ipynb*
+*.pyc
+*.h5
+data/**
+sign/**
+tfjs/**
+webapp/**
+*/node_modules/**
